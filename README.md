@@ -13,14 +13,13 @@ Over a decade ago, I traded the enchanting landscapes of Italy for the sunny sho
 **Dip. Science, Computing & Information Technology**
 University of Southern QLD, Current
 
-<![endif]-->
-
-**Agile Foundations**
-
-LinkedIn Course, 2023
+## Certifications
 
 **ISTQB Certified Tester Foundation Level 4.0**
 Software Quality Institute (iSQI), 2023
+
+**Agile Foundations**
+LinkedIn Course, 2023
 
 ## Projects
 

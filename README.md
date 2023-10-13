@@ -11,14 +11,17 @@ Over a decade ago, I traded the enchanting landscapes of Italy for the sunny sho
 ## Education
 
 **Dip. Science, Computing & Information Technology**
+<br> 
 University of Southern QLD, Current
 
 ## Certifications
 
 **ISTQB Certified Tester Foundation Level 4.0**
+<br> 
 Software Quality Institute (iSQI), 2023
 
 **Agile Foundations**
+<br> 
 LinkedIn Course, 2023
 
 ## Projects
@@ -47,6 +50,7 @@ In this project, I have practiced my Cypress testing skills by tackling various 
 
 - Git
 - Jira
+- VS Code 
 
 **Programming Languages:**
 

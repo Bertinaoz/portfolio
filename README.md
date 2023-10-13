@@ -25,11 +25,15 @@ LinkedIn Course, 2023
 
 In this section, I have linked some projects I have worked on using test automation tools.
 
-**Cypress**
+### Project 1 - Cypress
 
-Project 1 - In this project, I have practiced my Cypress testing skills by tackling various scenarios on the [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com/) web application. From form handling to authentication and dynamic content, this platform has been a valuable testing ground and has given me hands-on experience and confidence to tackle real-world web application challenges effectively.
+[**Project Link**](https://github.com/Bertinaoz/testing-the-internet-cypress)
+
+In this project, I have practiced my Cypress testing skills by tackling various scenarios on [the-internet](http://the-internet.herokuapp.com/) web application. From form handling to authentication and dynamic content, this platform has been a valuable testing ground and has given me hands-on experience and confidence to tackle real-world web application challenges effectively.
 
 ## CV
+
+[**Greta Curro CV 2023**](https://drive.google.com/file/d/1JIb6Uk5I4A16aefEmmUGBxI6F7mn449E/view?usp=drive_link)
 
 ## Skills
 

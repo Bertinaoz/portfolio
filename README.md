@@ -38,7 +38,7 @@ In this project, I have practiced my Cypress testing skills by tackling various 
 
 [**Project Link**](https://github.com/Bertinaoz/testing-saucedemo-playwright)
 
-In this project, I have practiced my PlayWright testing skills by tackling various scenarios on [sauce demo](https://www.saucedemo.com/) web application.
+In this project, I have practiced my PlayWright testing skills on [sauce demo](https://www.saucedemo.com/) e-commerce web application. The testing includes logging in with valid and invalid credentials, adding and removing items from the cart and checking out.
 
 ## CV
 

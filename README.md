@@ -34,6 +34,12 @@ In this section, I have linked some projects I have worked on using test automat
 
 In this project, I have practiced my Cypress testing skills by tackling various scenarios on [the-internet](http://the-internet.herokuapp.com/) web application. From form handling to authentication and dynamic content, this platform has been a valuable testing ground and has given me hands-on experience and confidence to tackle real-world web application challenges effectively.
 
+### Project 2 - Playwright
+
+[**Project Link**](https://github.com/Bertinaoz/testing-saucedemo-playwright)
+
+In this project, I have practiced my PlayWright testing skills by tackling various scenarios on [sauce demo](https://www.saucedemo.com/) web application.
+
 ## CV
 
 [**Greta Curro CV 2023**](https://drive.google.com/file/d/1JIb6Uk5I4A16aefEmmUGBxI6F7mn449E/view?usp=drive_link)

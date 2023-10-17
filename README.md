@@ -4,9 +4,9 @@ Welcome to my GitHub portfolio, showcasing my journey and projects as a **Junior
 
 # About
 
-Hey there, I'm Greta! 🌏
+Hey there, I'm Greta! 👋 
 
-Over a decade ago, I traded the enchanting landscapes of Italy for the sunny shores of Australia. I'm passionate about ensuring software quality and reliability and I'm excited to share my experiences with you.
+Over 10 years ago, I traded the Italian countryside for the sunny shores of Australia. I'm passionate about ensuring software quality and reliability and I'm excited to share my experiences with you.
 
 ## Education
 
